@@ -34,9 +34,9 @@ Schematic Diagram of Rainfall-Runoff-Inundation (RRI) Model (Sayama et al., 2012
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Input Data](#input-data)
-- [Running Auto‑Calibration](#running-auto‑calibration)
+- [Running Auto‑Calibration](#running-auto-calibration)
 - [Outputs](#outputs)
-- [Notes/Disclaimer](#notes/disclaimer)
+- [Notes/Disclaimer](#notes-and-disclaimer)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 - [Contact](#contact)
@@ -174,7 +174,7 @@ The calibration produces the following outputs:
 
 These results can be used for validation, sensitivity analysis, or further simulations.
 
-## Notes/Disclaimer
+## Notes and Disclaimer
 
 - Calibration results depend strongly on the quality of observed data and the
   selected parameter ranges.

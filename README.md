@@ -14,6 +14,8 @@ The framework is designed to automate RRI model calibration, reduce manual trial
 
 ![image](./assets/rri_diagram.gif)
 
+Schematic diagram of Rainfall-Runoff-Inundation (RRI) Model (Sayama et al., 2012)
+
 ## Key Features
 
 - Automatic calibration of RRI model parameters

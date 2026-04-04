@@ -34,7 +34,7 @@ Schematic Diagram of Rainfall-Runoff-Inundation (RRI) Model (Sayama et al., 2012
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Input Data](#input-data)
-- [Running Auto‑Calibration](#running-auto-calibration)
+- [Running Auto Calibration](#running-auto-calibration)
 - [Outputs](#outputs)
 - [Notes/Disclaimer](#notes-and-disclaimer)
 - [Acknowledgments](#acknowledgments)
@@ -155,7 +155,7 @@ The following inputs are required before running the calibration:
 Please ensure that all input files are correctly configured before execution.
 
 
-## Running Auto‑Calibration
+## Running Auto Calibration
 
 The code cell below initializes the calibration model, sets up the SCE‑UA sampler,
 and starts the optimization process.

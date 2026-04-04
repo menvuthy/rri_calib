@@ -1,11 +1,11 @@
 
 [![GitHub release](https://img.shields.io/github/v/release/menvuthy/rri_calib)](https://github.com/menvuthy/rri_calib/releases)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
-![GitHub Repo stars](https://shields.io)
-![GitHub Repo stars] (https://img.shields.io/github/stars/menvuthy/rri_calib?style=social)](https://github.com/menvuthy/rri_calib/stargazers)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org)
 
 
-**To support my work, please put a Star :star: on this repository! Thank you**
+
+**To support my work, please put a Star :star: on this repository! Thank you :bowing_man:** 
 
 
 # Auto‑Calibration Program for Rainfall-Runoff Inundation (RRI) Model in Python
@@ -25,6 +25,21 @@ The framework is designed to automate RRI model calibration, reduce manual trial
 ![image](./assets/rri_diagram.gif)
 
 Schematic Diagram of Rainfall-Runoff-Inundation (RRI) Model (Sayama et al., 2012)
+
+## 📋 Table of Contents
+
+- [Key Features](#key-features)
+- [Calibration Workflow](#why-version-310)
+- [Repository Structure](#features)
+- [Requirements](#quick-start)
+- [Installation](#configuration)
+- [Input Data](#troubleshooting)
+- [Running Auto‑Calibration](#development)
+- [Outputs](#usage-examples)
+- [Notes/Disclaimer](#contributing)
+- [Acknowledgments](#testing)
+- [License](#technical-details)
+- [Contact](#contact)
 
 ## Key Features
 
@@ -52,7 +67,7 @@ The auto‑calibration process follows these steps:
 
 ---
 
-## Repository Structure (Example)
+## Repository Structure
 
 ```bash
 project_root/
@@ -140,7 +155,7 @@ The following inputs are required before running the calibration:
 Please ensure that all input files are correctly configured before execution.
 
 
-## Running the Auto‑Calibration
+## Running Auto‑Calibration
 
 The code cell below initializes the calibration model, sets up the SCE‑UA sampler,
 and starts the optimization process.
@@ -155,11 +170,11 @@ The calibration produces the following outputs:
 
 - CSV log file containing objective function values and parameter sets
 - Optimal parameter combination identified by SCE‑UA
-- (Optional) Hydrograph plots comparing observed and simulated discharge
+- Hydrograph plots comparing observed and simulated discharge
 
 These results can be used for validation, sensitivity analysis, or further simulations.
 
-## Notes
+## Notes/Disclaimer
 
 - Calibration results depend strongly on the quality of observed data and the
   selected parameter ranges.

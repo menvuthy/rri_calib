@@ -14,7 +14,7 @@ The framework is designed to automate RRI model calibration, reduce manual trial
 
 ![image](./assets/rri_diagram.gif)
 
-Schematic diagram of Rainfall-Runoff-Inundation (RRI) Model (Sayama et al., 2012)
+Schematic Diagram of Rainfall-Runoff-Inundation (RRI) Model (Sayama et al., 2012)
 
 ## Key Features
 
@@ -156,3 +156,22 @@ These results can be used for validation, sensitivity analysis, or further simul
 - It is recommended to verify calibrated parameters against physical
   and hydrological plausibility.
 - Long calibration runs are advised to ensure stable convergence of the SCE‑UA algorithm.
+
+
+## Acknowledgments
+
+This research was supported by the Rural Road Connectivity Improvement Project (RRCIP) under the Ministry of Rural Development (MRD) in Cambodia. 
+The authors gratefully acknowledge MRD, RRCIP, JICA Cambodia, and all related institutions for their support and for providing the necessary data for this study. 
+
+
+## License
+
+Distributed under the Apache-2.0 License. See [LICENSE](./LICENSE) for more information.
+
+## Contact
+
+Email:  [vuthy-mn@n-koei.jp](vuthy-mn@n-koei.jp)
+        [menvuthy93@gmail.com](menvuthy93@gmail.com)
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>

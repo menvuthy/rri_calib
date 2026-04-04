@@ -2,7 +2,7 @@
 <!-- [![GitHub release](https://img.shields.io/github/v/release/menvuthy/rri_calib)](https://github.com/menvuthy/rri_calib/releases) -->
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org)
-![GitHub Repo stars](https://img.shields.io/github/stars/:user/:repo)
+![GitHub Repo stars](https://img.shields.io/github/stars/menvuthy/rri_calib)
 
 
 

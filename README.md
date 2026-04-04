@@ -1,3 +1,11 @@
+
+[![GitHub release](https://img.shields.io/github/v/release/menvuthy/ASEA-Model.svg)](https://github.com/menvuthy/ASEA-Model/releases)
+[![License: MIT license](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/menvuthy/ASEA-Model/blob/main/LICENSE)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
+
+**To support my work, please put a Star :star: on this repository! Thank you**
+
+
 # Auto‑Calibration Program for Rainfall-Runoff Inundation (RRI) Model in Python
 
 ---
@@ -160,8 +168,7 @@ These results can be used for validation, sensitivity analysis, or further simul
 
 ## Acknowledgments
 
-This research was supported by the Rural Road Connectivity Improvement Project (RRCIP) under the Ministry of Rural Development (MRD) in Cambodia. 
-The authors gratefully acknowledge MRD, RRCIP, JICA Cambodia, and all related institutions for their support and for providing the necessary data for this study. 
+This project was supported by the department of Water Resources and Energy at Nippon Koei Co. Ltd and the Rural Road Connectivity Improvement Project (RRCIP) under the Ministry of Rural Development (MRD) in Cambodia. The authors gratefully acknowledge MRD, RRCIP, JICA Cambodia, and all related institutions for their support and for providing the necessary data for this study. 
 
 
 ## License
@@ -171,6 +178,7 @@ Distributed under the Apache-2.0 License. See [LICENSE](./LICENSE) for more info
 ## Contact
 
 Email:  [vuthy-mn@n-koei.jp](vuthy-mn@n-koei.jp)
+
         [menvuthy93@gmail.com](menvuthy93@gmail.com)
 
 

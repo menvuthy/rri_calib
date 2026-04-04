@@ -73,18 +73,21 @@ The auto‑calibration process follows these steps:
 project_root/
 │
 ├─ rri_calib/
+│   ├─ obs/                     # Observed discharge (CSV)
+│   ├─ src/                     # RRI simulation outputs
 │   ├─ init.py
-│   └─ calibrator.py        # CalibrateRRI class
+│   └─ ParameterSetting.xlsx    # Calibration parameter definition (XLSX)
 │
-├─ notebooks/
-│   └─ run_calibration.ipynb
+├─ rri_calib/src/
+│   ├─ init.py
+│   ├─ plot_style.py            # Custom plotting style
+│   └─ calibrator.py            # CalibrateRRI class
 │
-├─ data/
-│   ├─ obs/                 # Observed discharge (CSV)
-│   └─ sim/                 # RRI simulation outputs
+├─ rri_calib/obs/
+│   └─ disc_kankai.csv          # Example observed discharge (CSV)
 │
-├─ environment.yml          # Conda environment (recommended)
-├─ ParameterSetting.xlsx    # Calibration parameter definition
+├─ environment.yml              # Conda environment (recommended)
+├─ LICENSE
 └─ README.md
 ```
 
@@ -197,6 +200,7 @@ Distributed under the Apache-2.0 License. See [LICENSE](./LICENSE) for more info
 Email:  
 
 [vuthy-mn@n-koei.jp](vuthy-mn@n-koei.jp)
+
 [menvuthy93@gmail.com](menvuthy93@gmail.com)
 
 

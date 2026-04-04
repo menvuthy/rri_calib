@@ -86,9 +86,7 @@ Use the provided `environment.yml` file to create the required Conda environment
 ```bash
 conda env create -f environment.yml
 conda activate rri_calib
-``
-
-
+```
 
 
 

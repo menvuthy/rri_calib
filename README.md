@@ -191,7 +191,7 @@ These results can be used for validation, sensitivity analysis, or further simul
 
 This program was supported by the Department of Water Resources and Energy, Nippon Koei Co., Ltd., Tokyo, Japan.
 This program was applied in the Rural Road Connectivity Improvement Project (RRCIP) under the Ministry of Rural Development (MRD) in Cambodia.
-The authors gratefully acknowledge MRD, RRCIP, JICA Cambodia, and all related institutions for their support and for providing the data necessary for this study.
+The authors gratefully acknowledge MRD, JICA Cambodia, and all related institutions for their support and for providing the data necessary for this study.
 
 
 ## License

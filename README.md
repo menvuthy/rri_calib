@@ -9,8 +9,7 @@
 This repository provides a **Python‑based automatic calibration framework** for the  
 **Rainfall–Runoff–Inundation (RRI) model** using the **SCE‑UA** global optimization algorithm implemented via **SPOTPY**.
 
-The framework is designed to automate RRI model calibration, reduce manual trial‑and‑error,
-and improve reproducibility in hydrological and flood modeling studies.
+The framework is designed to automate RRI model calibration, reduce manual trial‑and‑error, and improve reproducibility in hydrological and flood modeling studies.
 
 ---
 

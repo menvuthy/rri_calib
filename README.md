@@ -6,8 +6,7 @@
 
 ---
 
-This repository provides a **Python‑based automatic calibration framework** for the  
-**Rainfall–Runoff–Inundation (RRI) model** using the **SCE‑UA** global optimization algorithm implemented via **SPOTPY**.
+This repository provides a **Python‑based automatic calibration framework** for the **Rainfall–Runoff–Inundation (RRI) model** using the **SCE‑UA** global optimization algorithm implemented via **SPOTPY**.
 
 The framework is designed to automate RRI model calibration, reduce manual trial‑and‑error, and improve reproducibility in hydrological and flood modeling studies.
 
@@ -64,6 +63,7 @@ This notebook requires a Conda environment with the following main dependencies:
 
 - Python (recommended: 3.10)
 - SPOTPY
+- Scikit-learn
 - NumPy
 - Pandas
 - SciPy
@@ -74,17 +74,27 @@ The environment can be created using the provided `environment.yml` file.
 ## Installation
 
 ### Prerequisites
-- Anaconda or Miniconda installed on your system  
-  (https://www.anaconda.com/ or https://docs.conda.io/en/latest/miniconda.html)
+- Anaconda installed on your system  
+  (https://www.anaconda.com/)
 
 ---
 
-### Step 1: Create the Conda Environment
+### Step 1: Clone Repository and Drop Program Files to RRI-CUI Project Folder
+
+
+### Step 2: Create the Conda Environment
 
 Use the provided `environment.yml` file to create the required Conda environment:
 
 ```bash
 conda env create -f environment.yml
+```
+
+### Step 3: Create the Conda Environment
+
+After the environment is created, activate `rri_calib` environment:
+
+```bash
 conda activate rri_calib
 ```
 

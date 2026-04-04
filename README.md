@@ -1,9 +1,7 @@
 # Auto‑Calibration Program for Rainfall-Runoff Inundation (RRI) (Python)
 
 This repository provides a **Python‑based automatic calibration framework** for the  
-**Rainfall–Runoff–Inundation (RRI) model** using the  
-**Shuffled Complex Evolution – University of Arizona (SCE‑UA)** global optimization algorithm
-implemented via **SPOTPY**.
+**Rainfall–Runoff–Inundation (RRI) model** using the **Shuffled Complex Evolution – University of Arizona (SCE‑UA)** global optimization algorithm implemented via **SPOTPY**.
 
 The framework is designed to automate RRI model calibration, reduce manual trial‑and‑error,
 and improve reproducibility in hydrological and flood modeling studies.
@@ -38,4 +36,20 @@ The auto‑calibration process follows these steps:
 
 ## Repository Structure (Example)
 
-``
+project_root/
+│
+├─ rri_calib/
+│   ├─ init.py
+│   └─ calibrator.py        # CalibrateRRI class
+│
+├─ notebooks/
+│   └─ run_calibration.ipynb
+│
+├─ data/
+│   ├─ obs/                 # Observed discharge (CSV)
+│   └─ sim/                 # RRI simulation outputs
+│
+├─ environment.yml          # Conda environment (recommended)
+├─ ParameterSetting.xlsx    # Calibration parameter definition
+└─ README.md
+

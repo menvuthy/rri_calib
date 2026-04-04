@@ -1,4 +1,4 @@
-# Auto‑Calibration Program for Rainfall-Runoff Inundation (RRI)
+# Auto‑Calibration Program for Rainfall-Runoff Inundation (RRI) Model
 
 ---
 

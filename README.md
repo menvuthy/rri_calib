@@ -1,5 +1,5 @@
 
-[![GitHub release](https://img.shields.io/github/v/release/menvuthy/rri_calib)](https://github.com/menvuthy/rri_calib/releases)
+<!-- [![GitHub release](https://img.shields.io/github/v/release/menvuthy/rri_calib)](https://github.com/menvuthy/rri_calib/releases) -->
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org)
 
@@ -11,7 +11,7 @@
 # Auto‑Calibration Program for Rainfall-Runoff Inundation (RRI) Model in Python
 
 ---
-d
+
 *<font color='grey'>**Developer:** Men Vuthy (MEng), Water Resources and Energy Department, Nippon Koei, 2026*</font> 
 
 ---
@@ -29,16 +29,16 @@ Schematic Diagram of Rainfall-Runoff-Inundation (RRI) Model (Sayama et al., 2012
 ## 📋 Table of Contents
 
 - [Key Features](#key-features)
-- [Calibration Workflow](#why-version-310)
-- [Repository Structure](#features)
-- [Requirements](#quick-start)
-- [Installation](#configuration)
-- [Input Data](#troubleshooting)
-- [Running Auto‑Calibration](#development)
-- [Outputs](#usage-examples)
-- [Notes/Disclaimer](#contributing)
-- [Acknowledgments](#testing)
-- [License](#technical-details)
+- [Calibration Workflow](#calibration-workflow)
+- [Repository Structure](#repository-structure)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Input Data](#input-data)
+- [Running Auto‑Calibration](#running-auto‑calibration)
+- [Outputs](#outputs)
+- [Notes/Disclaimer](#notes/disclaimer)
+- [Acknowledgments](#acknowledgments)
+- [License](#license)
 - [Contact](#contact)
 
 ## Key Features

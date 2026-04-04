@@ -5,10 +5,6 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/menvuthy/rri_calib)
 
 
-
-**To support my work, please put a Star :star: on this repository! Thank you :bowing_man:** 
-
-
 # Auto‑Calibration Program for Rainfall-Runoff Inundation (RRI) Model in Python
 
 ---
@@ -26,6 +22,8 @@ The framework is designed to automate RRI model calibration, reduce manual trial
 ![image](./assets/rri_diagram.gif)
 
 Schematic Diagram of Rainfall-Runoff-Inundation (RRI) Model (Sayama et al., 2012)
+
+**To support my work, please put a Star :star: on this repository! Thank you :bowing_man:** 
 
 ## 📋 Table of Contents
 

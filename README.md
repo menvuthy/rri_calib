@@ -12,6 +12,8 @@ The framework is designed to automate RRI model calibration, reduce manual trial
 
 ---
 
+![image](./assets/rri_diagram.gif)
+
 ## Key Features
 
 - Automatic calibration of RRI model parameters

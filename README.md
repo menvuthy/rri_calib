@@ -189,7 +189,9 @@ These results can be used for validation, sensitivity analysis, or further simul
 
 ## Acknowledgments
 
-This project was supported by the department of Water Resources and Energy at Nippon Koei Co. Ltd and the Rural Road Connectivity Improvement Project (RRCIP) under the Ministry of Rural Development (MRD) in Cambodia. The authors gratefully acknowledge MRD, RRCIP, JICA Cambodia, and all related institutions for their support and for providing the necessary data for this study. 
+This project was supported by the department of Water Resources and Energy at Nippon Koei Co. Ltd, Tokyo. 
+This program was applied in the Rural Road Connectivity Improvement Project (RRCIP) under the Ministry of Rural Development (MRD) in Cambodia. 
+The authors gratefully acknowledge MRD, RRCIP, JICA Cambodia, and all related institutions for their support and for providing the necessary data for this study. 
 
 
 ## License

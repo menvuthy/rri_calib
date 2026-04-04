@@ -1,4 +1,10 @@
-# Auto‑Calibration Program for Rainfall-Runoff Inundation (RRI) (Python)
+# Auto‑Calibration Program for Rainfall-Runoff Inundation (RRI)
+
+---
+
+*<font color='grey'>**Developer:** Men Vuthy (MEng), Water Resources and Energy Department, Nippon Koei, 2026*</font> 
+
+---
 
 This repository provides a **Python‑based automatic calibration framework** for the  
 **Rainfall–Runoff–Inundation (RRI) model** using the **Shuffled Complex Evolution – University of Arizona (SCE‑UA)** global optimization algorithm implemented via **SPOTPY**.

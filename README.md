@@ -81,8 +81,17 @@ The environment can be created using the provided `environment.yml` file.
 
 ### Step 1: Clone Repository and Drop Program Files to RRI-CUI Project Folder
 
+Clone this repository or download the source code, and copy the program files into the **RRI‑CUI project folder** where the RRI model executable and input files are located.
 
-### Step 2: Create the Conda Environment
+Ensure that:
+- The `rri_calib` module is placed inside the RRI‑CUI working directory
+- Observed discharge data and RRI input files are accessible from this folder
+- File paths in the configuration and parameter setting files remain unchanged
+
+This step allows the auto‑calibration program to directly execute the RRI model and access required input/output files.
+
+
+### Step 2: Create Conda Environment
 
 Use the provided `environment.yml` file to create the required Conda environment:
 
@@ -90,7 +99,7 @@ Use the provided `environment.yml` file to create the required Conda environment
 conda env create -f environment.yml
 ```
 
-### Step 3: Create the Conda Environment
+### Step 3: Activate Conda Environment
 
 After the environment is created, activate `rri_calib` environment:
 

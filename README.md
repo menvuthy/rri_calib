@@ -40,6 +40,7 @@ The auto‑calibration process follows these steps:
 
 ## Repository Structure (Example)
 
+```bash
 project_root/
 │
 ├─ rri_calib/
@@ -56,6 +57,9 @@ project_root/
 ├─ environment.yml          # Conda environment (recommended)
 ├─ ParameterSetting.xlsx    # Calibration parameter definition
 └─ README.md
+```
+
+
 
 ## Requirements
 

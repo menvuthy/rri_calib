@@ -158,6 +158,7 @@ The following inputs are required before running the calibration:
 
 Please ensure that all input files are correctly configured before execution.
 
+![image](./assets/parameter_setting.png)
 
 ## Running Auto Calibration
 

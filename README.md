@@ -197,11 +197,8 @@ Distributed under the Apache-2.0 License. See [LICENSE](./LICENSE) for more info
 
 ## Contact
 
-Email:  
-
-[vuthy-mn@n-koei.jp](vuthy-mn@n-koei.jp)
-
-[menvuthy93@gmail.com](menvuthy93@gmail.com)
+- 📧 **Work**: [vuthy-mn@n-koei.jp](mailto:vuthy-mn@n-koei.jp)
+- 📧 **Personal**: [menvuthy93@gmail.com](mailto:menvuthy93@gmail.com)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>

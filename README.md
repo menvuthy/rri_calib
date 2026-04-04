@@ -71,6 +71,26 @@ This notebook requires a Conda environment with the following main dependencies:
 
 The environment can be created using the provided `environment.yml` file.
 
+## Installation
+
+### Prerequisites
+- Anaconda or Miniconda installed on your system  
+  (https://www.anaconda.com/ or https://docs.conda.io/en/latest/miniconda.html)
+
+---
+
+### Step 1: Create the Conda Environment
+
+Use the provided `environment.yml` file to create the required Conda environment:
+
+```bash
+conda env create -f environment.yml
+conda activate rri_calib
+``
+
+
+
+
 
 ## Input Data
 

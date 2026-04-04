@@ -1,6 +1,7 @@
 
 [![GitHub release](https://img.shields.io/github/v/release/menvuthy/rri_calib)](https://github.com/menvuthy/rri_calib/releases)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
+https://img.shields.io/github/stars/menvuthy/rri_calib?style=social](https://github.com/menvuthy/rri_calib/stargazers)
 
 **To support my work, please put a Star :star: on this repository! Thank you**
 
@@ -8,7 +9,7 @@
 # Auto‑Calibration Program for Rainfall-Runoff Inundation (RRI) Model in Python
 
 ---
-
+d
 *<font color='grey'>**Developer:** Men Vuthy (MEng), Water Resources and Energy Department, Nippon Koei, 2026*</font> 
 
 ---

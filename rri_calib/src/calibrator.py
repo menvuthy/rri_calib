@@ -55,11 +55,11 @@ class CalibrateRRI:
         df = pd.read_excel(file_path)
 
         # Define a list of parameter names
-        param_names = df.iloc[7:, 2].values
+        param_names = df.iloc[7:25, 2].values
 
         # Define a list of optimize values 
-        starts = df.iloc[7:, 3].values
-        stops = df.iloc[7:, 4].values
+        starts = df.iloc[7:25, 3].values
+        stops = df.iloc[7:25, 4].values
 
         params_list = []
         for i in range(len(param_names)):

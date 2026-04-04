@@ -1,13 +1,27 @@
 import spotpy
 from rri_calib import CalibrateRRI
 
-# Load Class
-RRImodel = CalibrateRRI()
-iteration = RRImodel.read_iteration()
-log_sheet = RRImodel.calibration_log()
+# --------------------------------------------------
+# Initialize RRI calibration model
+# --------------------------------------------------
+RRI_model = CalibrateRRI()
 
-# Apply SCE-UA algorithm
-sampler = spotpy.algorithms.sceua(RRImodel, dbname=log_sheet, dbformat='csv')
+# --------------------------------------------------
+# Load calibration parameters and settings
+# --------------------------------------------------
+iteration = RRI_model.read_iteration()
+log_sheet = RRI_model.calibration_log()
 
-# Start Calibration
+# --------------------------------------------------
+# Apply SCE-UA optimization algorithm
+# --------------------------------------------------
+sampler = spotpy.algorithms.sceua(
+    RRI_model,
+    dbname=log_sheet,
+    dbformat="csv"
+)
+
+# --------------------------------------------------
+# Start auto-calibration
+# --------------------------------------------------
 sampler.sample(iteration)

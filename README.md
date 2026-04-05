@@ -209,6 +209,10 @@ Distributed under the Apache-2.0 License. See [LICENSE](./LICENSE) for more info
 
 ## Contact
 
+**MEN Vuthy (MEng)**
+Based in: Tokyo, Japan
+
+**Email:**
 - 📧 **Work**: [vuthy-mn@n-koei.jp](mailto:vuthy-mn@n-koei.jp)
 - 📧 **Personal**: [menvuthy93@gmail.com](mailto:menvuthy93@gmail.com)
 

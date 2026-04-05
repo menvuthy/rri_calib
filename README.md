@@ -211,10 +211,9 @@ Distributed under the Apache-2.0 License. See [LICENSE](./LICENSE) for more info
 
 **MEN Vuthy (MEng)**  
 
-📍 **Location:** Tokyo, Japan  
+📍 Tokyo, Japan  
 
 For inquiries related to this repository, including technical questions, collaboration, or commercial licensing, please feel free to reach out via email.
-
 
 **Email:**
 - 📧 **Work**: [vuthy-mn@n-koei.jp](mailto:vuthy-mn@n-koei.jp)

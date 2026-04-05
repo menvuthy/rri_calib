@@ -145,7 +145,9 @@ class CalibrateRRI:
             '''
             return avg_rmse
         else:
-            self.plot_hydro(simulation, evaluation, avg_mae)
+            '''
+            The code was hidden for commercial use. Please contact the author for more details.
+            '''
             return avg_mae
 
         

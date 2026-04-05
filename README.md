@@ -19,6 +19,13 @@ The framework is designed to automate RRI model calibration, reduce manual trial
 
 ---
 
+## 💼 Commercial Version
+
+This is a limited version of the project for demonstration purposes.
+A full-featured version of this software is available for commercial use.
+
+If you are interested, please contact the author.
+
 ![image](./assets/rri_diagram.gif)
 
 Schematic Diagram of Rainfall-Runoff-Inundation (RRI) Model (Sayama et al., 2012)

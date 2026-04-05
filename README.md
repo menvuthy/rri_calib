@@ -178,6 +178,12 @@ The calibration produces the following outputs:
 
 These results can be used for validation, sensitivity analysis, or further simulations.
 
+## Showcase
+
+![image](./assets/rainfall-runoff.png)
+![image](./assets/regression.png)
+
+
 ## Notes and Disclaimer
 
 - Calibration results depend strongly on the quality of observed data and the

@@ -40,6 +40,7 @@ Schematic Diagram of Rainfall-Runoff-Inundation (RRI) Model (Sayama et al., 2012
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 - [Contact](#contact)
+- [Commercial Version](#commercial-version)
 
 ## Key Features
 
@@ -206,17 +207,17 @@ This program was supported by the Department of Water Resources and Energy, Nipp
 Distributed under the Apache-2.0 License. See [LICENSE](./LICENSE) for more information.
 
 
-## 💼 Commercial Version
-
-This is a limited version of the project for demonstration purposes.
-A full version of this software is available for commercial use.
-
-If you are interested, please contact the author below.
-
 ## Contact
 
 - 📧 **Work**: [vuthy-mn@n-koei.jp](mailto:vuthy-mn@n-koei.jp)
 - 📧 **Personal**: [menvuthy93@gmail.com](mailto:menvuthy93@gmail.com)
 
+
+## Commercial Version
+
+This is a limited version of the project for demonstration purposes.
+A full version of this software is available for commercial use.
+
+If you are interested, please contact the author above.
 
 <p align="right">(<a href="#top">back to top</a>)</p>

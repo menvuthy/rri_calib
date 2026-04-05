@@ -9,14 +9,14 @@
 
 ---
 
-*<font color='grey'>**Developer:** Men Vuthy (MEng)*</font> 
+<!-- *<font color='grey'>**Developer:** Men Vuthy (MEng)*</font> 
 
 *<font color='grey'>**Profession:** Hydrologist / GIS-Remote Sensing / Climate Change / Geospatial Software Engineer / Machine Learnign Engineer*</font>  
 
 *<font color='grey'>**Date:** April, 2026*</font>
+ -->
 
-
-**Developer:** Men Vuthy (MEng) · **Profession:** Hydrologist / GIS–Remote Sensing / Climate Change / Geospatial Software Engineer / Machine Learning Engineer · **Date:** April 2026
+**Developer:** Men Vuthy (MEng) · **Profession:** Hydrology / GIS–Remote Sensing / Climate Change / Geospatial Software Development / Machine Learning · **Date:** April 2026
 
 
 ---

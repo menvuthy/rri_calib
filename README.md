@@ -166,6 +166,7 @@ and starts the optimization process.
 Depending on the number of iterations and model complexity, the calibration may
 require significant computation time.
 
+![image](./assets/run-program.png)
 
 ## Outputs
 

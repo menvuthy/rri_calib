@@ -16,8 +16,11 @@
 *<font color='grey'>**Date:** April, 2026*</font>
  -->
 
-**Developer:** Men Vuthy (MEng) · **Profession:** Hydrology / GIS–Remote Sensing / Climate Change / Geospatial Software Development / Machine Learning · **Date:** April 2026
+**Developer:** Men Vuthy (MEng) · **Expertise:** Hydrology / GIS–Remote Sensing / Climate Change / Geospatial Software Development / Machine Learning · **Date:** April 2026
 
+> **Developer:** Men Vuthy (MEng)
+> **Role:** Hydrological Modeling & Geospatial Software Engineer  
+> **Date:** April 2026
 
 ---
 

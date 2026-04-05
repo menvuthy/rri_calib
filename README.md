@@ -12,8 +12,9 @@
 *<font color='grey'>**Developer:** Men Vuthy (MEng)*</font> 
 
 *<font color='grey'>**Profession:** Hydrologist / GIS-Remote Sensing / Climate Change / Geospatial Software Engineer / Machine Learnign Engineer*</font>  
- 
+
 *<font color='grey'>**Date:** April, 2026*</font>
+
 ---
 
 This repository provides a **Python‑based automatic calibration framework** for the **Rainfall–Runoff–Inundation (RRI) model** using the **SCE‑UA** global optimization algorithm implemented via **SPOTPY**.

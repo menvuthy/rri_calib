@@ -180,6 +180,8 @@ These results can be used for validation, sensitivity analysis, or further simul
 
 ## Showcase
 
+This showcase demonstrates the application of an automatic calibration program to a RRI model simulation in the Pursat River Basin, Cambodia. The showcase highlights optimized parameter estimation and improved agreement between observed and simulated discharge, demonstrating the effectiveness of automated calibration for hydrological modeling.
+
 ![image](./assets/rainfall-runoff.png)
 ![image](./assets/regression.png)
 

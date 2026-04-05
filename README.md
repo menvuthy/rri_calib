@@ -209,7 +209,7 @@ Distributed under the Apache-2.0 License. See [LICENSE](./LICENSE) for more info
 ## 💼 Commercial Version
 
 This is a limited version of the project for demonstration purposes.
-A full-featured version of this software is available for commercial use.
+A full version of this software is available for commercial use.
 
 If you are interested, please contact the author below.
 

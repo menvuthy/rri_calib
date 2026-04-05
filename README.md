@@ -10,7 +10,7 @@
 ---
 
 > **Developer:** Men Vuthy (MEng)\
-> **Expertise:** Hydrology / GIS–Remote Sensing / Climate Change / Geospatial Software Development / Machine Learning\
+> **Expertise:** Hydrology / GIS–Remote Sensing / Climate Change / Geospatial Software Development / Machine Learning and Deep Learning\
 > **Date:** April 2026
 
 ---

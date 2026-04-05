@@ -59,8 +59,9 @@ class CalibrateRRI:
         return params_list
     
     def read_iteration(self):
-        df = pd.read_excel(self.paths.calInput)
-        iteration = df.iloc[3,3]
+        '''
+        The code was hidden for commercial use. Please contact the author for more details.
+        '''
         return iteration
     
     def calibration_log(self):
@@ -77,7 +78,9 @@ class CalibrateRRI:
 
     # Function to generate parameters
     def parameters(self):
-        params = spotpy.parameter.generate(self.params)
+        '''
+        The code was hidden for commercial use. Please contact the author for more details.
+        '''
         return params
     
 

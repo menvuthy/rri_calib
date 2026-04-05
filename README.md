@@ -35,6 +35,7 @@ Schematic Diagram of Rainfall-Runoff-Inundation (RRI) Model (Sayama et al., 2012
 - [Input Data](#input-data)
 - [Running Auto Calibration](#running-auto-calibration)
 - [Outputs](#outputs)
+- [Showcase](#showcase)
 - [Notes/Disclaimer](#notes-and-disclaimer)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
@@ -69,7 +70,7 @@ The auto‑calibration process follows these steps:
 ## Repository Structure
 
 ```bash
-project_root/
+RRI_project_root/
 │
 ├─ rri_calib/
 │   ├─ obs/                     # Observed discharge (CSV)

@@ -199,7 +199,7 @@ This showcase demonstrates the application of an automatic calibration program t
 
 ## Acknowledgments
 
-This program was supported by the Department of Water Resources and Energy, Nippon Koei Co., Ltd., Tokyo, Japan, and it was applied in the Rural Road Connectivity Improvement Project (RRCIP) under the Ministry of Rural Development (MRD) in Cambodia. The authors gratefully acknowledge MRD, JICA Cambodia, and all related institutions for their support and for providing the data necessary for this study.
+This program was supported by the Department of Water Resources and Energy, Nippon Koei Co., Ltd., Tokyo, Japan, and it was applied in the Rural Road Connectivity Improvement Project (RRCIP) under the Ministry of Rural Development (MRD) in Cambodia. The authors gratefully acknowledge MRD, JICA Cambodia, and all related institutions for their support and for providing the data necessary for the case study.
 
 
 ## License
